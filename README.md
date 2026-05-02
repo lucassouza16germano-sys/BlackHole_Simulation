@@ -1,6 +1,6 @@
 Um simulador de buraco negro em python.
 
-Para usa-lo instale o visual studio code,em seguida instale as dependencias necessarias 
+Para rodar o codigo instale o visual studio code,em seguida instale as dependencias necessarias 
 com o comando:
 
 "winget install Python.Python.3.12"
