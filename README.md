@@ -22,6 +22,7 @@ em utilizar a biblioteca do import pygame, talvez por conta da falta de estabili
 falta de buids prontas, por isso sempre de preferencia a versões a partir da 3.12
 pra baixo,a pasta blackHole possui por volta de 4 a 5 versões do modelo de simulação,
 sinta-se a vontade pra mexer e alterar,é muito divertido ver como o horizonte de eventos distorce 
-a materia do disco de acreção e qualquer luz emitida quando o buraco negro é colocado sobre a as estrelas.
+a materia do disco de acreção e qualquer luz emitida quando o buraco negro é colocado sobre a as estrelas
+acho bem divertido.
 
 
