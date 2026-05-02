@@ -1,6 +1,6 @@
 Um simulador de buraco negro em python.
 
-Para rodar o codigo instale o visual studio code,em seguida instale as dependencias necessarias 
+Para rodar o codigo será necessario instalar o visual studio code,em seguida instale as dependencias necessarias 
 com o comando:
 
 "winget install Python.Python.3.12"
@@ -9,7 +9,7 @@ para instalar a versão mais antiga do python.
 
 "py -3.12 -m pip install pygame" 
 
-para importa a biblioteca do pygame, caso nao de certo use:
+para importa a biblioteca do pygame, caso o comando nao de certo tente:
 
 "pip install pygame"
 
