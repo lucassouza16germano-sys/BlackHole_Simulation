@@ -1,0 +1,20 @@
+//a malha feita em python 3.12 com import pygame,a versão 3.12 é necessaria pois as novas versoes do Python nao possuem um import pygame.
+//Primeiro instale o Python 3.12 e logo depois o pygame.
+//a instalação dessas ferrramentas são necessarias para rodar a malha que sera renderizada no terminal python.
+//Este software utiliza planos e eixos x e y,gravidade , e matematica.
+//Esse "game" é muito bom para estudar e praticar logica e matematica,sinta-se á vontade para mexer e testar novos conceitos.
+//no terminal de o comando "winget install Python.Python.3.12" para intalar o Python versão 3.12, e logo depois "pip install pygame" para instalar o pygame, ambos os comandos devem ser rodados no terminal 
+//Mais comandos "pip install pygame"  "pip install moderngl" , instale o pthon debuger,a as demais oferecidas pelo vscode, e rode o codigo com o debuger para melhor experiencia, ou simplesmente rode o codigo normalmente, ambos os metodos são validos e funcionais.
+//pip install vpython
+{
+    "python.testing.pytestArgs":[
+        "."
+    ],
+    "python.testing.unittestEnabled":false,
+    "python.testing.pytestEnabled":true,
+
+       "name":"germano",
+
+     "atencion": "Evolving versions of black holes",
+      "version": "0.1.0"
+}
