@@ -9,7 +9,7 @@ para instalar a versão mais antiga do python.
 
 "py -3.12 -m pip install pygame" 
 
-para importa a biblioteca do pygame, caso o comando nao de certo tente:
+Após a instalaçaõ do python use o comando pip para importa a biblioteca do pygame, caso o comando nao de certo tente:
 
 "pip install pygame"
 
